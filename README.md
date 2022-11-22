@@ -1,2 +1,2 @@
 # Maputo
-University group project abuot maputo's streets
+University group project abuot Maputo's streets
